@@ -17,3 +17,24 @@ In this assignment, you’ll practice collaborating around a code project with G
 * GitHub repository:  https://github.com/acatlin/FALL2019TIDYVERSE
 * FiveThirtyEight.com datasets:  https://data.fivethirtyeight.com/
 * Kaggle datasets:  https://www.kaggle.com/datasets
+
+
+--------------------------------------------------------------------------------------------
+
+
+title: "Fall 2019---Data 607---Tidyverse Assignment"
+author: "Jayanth"
+date: "11/25/2019"
+
+Task1:"Tidyverse_assignment.Rmd"
+In this task dataset "breweries_us.csv" was downloaded from "https://www.kaggle.com/brkurzawa/us-breweries/data#".
+This CSV file was imported into R and few transacformations were performed using packages from Tidyverse.
+Below packages from Tidyverse was used...
+- readr
+- stringr
+- magrittr
+
+
+Task2: "Tidyverse_assignment_task2.Rmd"
+In this task I've added an alternative function to "Avraham Adler's" code
+updated code is on lines 109-115
